@@ -1,17 +1,14 @@
-
-
-
 Hi 👋 My name is Het Mehta
 
 ==========================
 
-Security Analyst
+Do I look like a Security Analyst? Yes, I am. 
 
 ----------------
 
 * 🌍  I'm based in India
 
-* ✉️  You can contact me at [hetmehtaa@gmail.com](mailto:hetmehtaa@gmail.com)
+* ✉️  You can contact me at [hi@hetmehtaa.com](mailto:hi@hetmehtaa.com)
 
 
 
